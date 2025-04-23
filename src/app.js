@@ -31,7 +31,7 @@ import "./assets/img/4geeks.ico";
       const adjList =  adj.forEach((elemeto2) =>{
         
         
-        const NounList =  noun.forEach((elemento3) =>{
+        const nounList =  noun.forEach((elemento3) =>{
           console.log(elemento + elemeto2 + elemento3 + ".com");
         });
 
